@@ -1,5 +1,7 @@
 # SNAPPY
 
+Technologies used: React.js, Node.js, MongoDB, Socket.io
+
 Follow the below steps to run the react-app:
 - Install client side dependencies
 - Install server side dependencies
